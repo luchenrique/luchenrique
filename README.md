@@ -21,7 +21,7 @@
 
 <div align="center">
 <td width="50%" align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=vinicius-goncalves&show_icons=true&theme=github_dark)
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luchenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </td>
 
 <td width="50%" align="center">
