@@ -36,4 +36,6 @@
 <a href="https://www.linkedin.com/in/lucas-henrique-341197213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+![Snake animation](https://github.com/luchenrique/luchenrique/blob/output/github-contribution-grid-snake.svg)
   
