@@ -25,7 +25,7 @@
 </td>
   
 <td width="50%" align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pamelarondina&background=B0C4DE&stroke=DB7093&ring=FF6347&fire=FF6347&currStreakNum=4F4F4F&sideNums=ddb7093&currStreakLabel=ddb7093&currStreakLabel=FF6347&hide_border=true">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=luchenrique&show_icons=true&theme=tokyonigh&stroke=DB7093&ring=FF6347&fire=FF6347&currStreakNum=4F4F4F&sideNums=ddb7093&currStreakLabel=ddb7093&currStreakLabel=FF6347&hide_border=true">
 
 <td width="50%" align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchenrique&layout=compact&langs_count=7&theme=tokyonight"/>
