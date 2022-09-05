@@ -21,7 +21,7 @@
 
 <div align="center">
 <td width="50%" align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luchenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luchenrique&show_icons=true&theme=radical&hide_border=false&title_color=blue&include_all_commits=true&count_private=true"/>
 </td>
 
 <td width="50%" align="center">
