@@ -25,7 +25,7 @@
 </td>
 
 <td width="50%" align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchenrique&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchenrique&layout=compact&langs_count=7&theme=radical&hide_border=false&title_color=blue"/>
   </td>
 </tr>
 </table>
