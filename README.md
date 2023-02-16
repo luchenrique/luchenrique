@@ -7,7 +7,7 @@
 <br>
   📍 Franca-SP
 <br>  
-  📚 Engenharia de Software | Uni-Facef
+  📚 Engenharia de Software | Uni-Facef 
  
 🌐 Tecnologias:
 <div style="display: inline_block">
