@@ -23,7 +23,7 @@
 </div>
 
 <br>
-<h1> 🎲 Git Status </h1>
+<h1> 🎲 Git Stats </h1>
 <div align="center">
 <td width="50%" align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luchenrique&show_icons=true&theme=radical&hide_border=false&title_color=blue&include_all_commits=true&count_private=true"/>
