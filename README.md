@@ -24,20 +24,6 @@
 </div>
 
 <br>
-<h1> 🎲 Git Stats </h1>
-<div align="center">
-<td width="50%" align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luchenrique&show_icons=true&theme=radical&hide_border=false&title_color=blue&include_all_commits=true&count_private=true"/>
-</td>
-
-<td width="50%" align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchenrique&layout=compact&langs_count=7&theme=radical&hide_border=false&title_color=blue"/>
-  </td>
-</tr>
-</table>
-</div>
-  
-<br>
 <h1> 🌐 Social </h1>
 <a href="https://instagram.com/luchenrique__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/1lucashenrique/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
