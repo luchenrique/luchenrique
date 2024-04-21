@@ -1,10 +1,10 @@
 <h1> 💫 About Me: </h1>
 
-  🔍 Como entusiasta na área de tecnologia, estou sempre participando de palestras, workshops, hackathons e criando novas conexões para aprofundar meus conhecimentos neste meio profissional. Também faço curso pela Alura, onde aperfeiçoo meus conhecimento na área de desenvolvimento back-end.<br>
+  🔍 Como entusiasta na área de tecnologia, estou sempre participando de palestras, workshops, hackathons e criando novas conexões para aprofundar meus conhecimentos neste meio profissional. Também faço curso pela Alura, focando em back-end.<br>
   
   🎓 Formado em técnico em Eletroeletrônica pelo SENAI e graduando o 7° semestre de Engenharia de Software no Uni-FACEF. Também estou aprimorando meus conhecimento na área de desenvolvimento back-end.<br>
 
-  💼 Atualmente, trabalho como assistente administrativo no MagaluBank, umas das frentes de serviço financeiro do Grupo Magazine Luiza. Contribuo dando suporte para o aplicativo do MagaluPay Empresas, um dos produtos principais da marca. O suporte vai tanto para a área cadastral, acionando as áreas de risco, até suporte para os erros funcionais do app, acionando o time de tecnologia. <br>
+  💼 Atualmente, trabalho como assistente administrativo no MagaluBank, umas das frentes de serviço financeiro do Grupo Magazine Luiza. Contribuo no suporte para o aplicativo do MagaluPay Empresas, um dos produtos principais da marca. O suporte vai tanto para a área cadastral, acionando as áreas de risco, até suporte para os erros funcionais do app, acionando o time de tecnologia. <br>
 
   🌱 Como entusiasta na área de tecnologia, estou sempre participando de palestras, workshops, hackathons e criando novas conexões para aprofundar meus conhecimentos neste meio profissional. Também faço curso pela Alura, onde aperfeiçoo meus conhecimento na área de desenvolvimento back-end, focando em NodeJS, Express e Cloud.<br><br>
  
