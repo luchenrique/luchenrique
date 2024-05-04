@@ -1,15 +1,10 @@
-<h1> Hi there 👋 </h1>
-
-  🔭 I’m currently working on: Level 2 support for the MagaluPay Empresas application at MagaluBank, one of the financial service fronts of Magazine Luiza.
-  <br>
-  🌱 I’m currently learning: Backend development using node.js and express. I'm also studying architecture based on APIs and microservices, along with automated testing (unit, integration).
-  <br>
-  👯 I’m looking to collaborate on ...
-  <br>
-  🤔 I’m looking for help with: Understand more about containers like Docker and Kubernetes.
-  <br>
-  ⚡ Fun fact: I really like motorsport and one of my biggest idols is Ayrton Senna. I also like reading management and self-knowledge/self-help books.
-  <br><br>
+# 💫 About Me:
+🔭 I’m currently working on: Level 2 support for the MagaluPay Empresas application at MagaluBank, one of the financial service fronts of Magazine Luiza.<br><br>
+🌱 I’m currently learning: Backend development using node.js and express. I'm also studying architecture based on APIs and microservices, along with automated testing (unit, integration).<br><br>
+👯 I’m looking to collaborate on: Join the backend development area and constantly improve myself.<br><br>
+🤔 I’m looking for help with: Understand more about containers like Docker and Kubernetes.<br><br>
+⚡ Fun fact: I really like motorsport and one of my biggest idols is Ayrton Senna. I also like reading management and self-knowledge/self-help books.
+<br><br>
  
 <h1> 💻 Tech Stack </h1>
 <div style="display: inline_block">
