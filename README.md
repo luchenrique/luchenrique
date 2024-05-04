@@ -1,12 +1,15 @@
-<h1> 💫 About Me: </h1>
+<h1> Hi there 👋 </h1>
 
-  🔍 Como entusiasta na área de tecnologia, estou sempre participando de palestras, workshops, hackathons e criando novas conexões para aprofundar meus conhecimentos neste meio profissional. Também faço curso pela Alura, focando em back-end.<br>
-  
-  🎓 Formado em técnico em Eletroeletrônica pelo SENAI e graduando o 7° semestre de Engenharia de Software no Uni-FACEF. Também estou aprimorando meus conhecimento na área de desenvolvimento back-end.<br>
-
-  💼 Atualmente, trabalho como assistente administrativo no MagaluBank, umas das frentes de serviço financeiro do Grupo Magazine Luiza. Contribuo no suporte para o aplicativo do MagaluPay Empresas, um dos produtos principais da marca. O suporte vai tanto para a área cadastral, acionando as áreas de risco, até suporte para os erros funcionais do app, acionando o time de tecnologia. <br>
-
-  🌱 Como entusiasta na área de tecnologia, estou sempre participando de palestras, workshops, hackathons e criando novas conexões para aprofundar meus conhecimentos neste meio profissional. Também faço curso pela Alura, onde aperfeiçoo meus conhecimento na área de desenvolvimento back-end, focando em NodeJS, Express e Cloud.<br><br>
+  🔭 I’m currently working on: Level 2 support for the MagaluPay Empresas application at MagaluBank, one of the financial service fronts of Magazine Luiza.
+  <br>
+  🌱 I’m currently learning: Backend development using node.js and express. I'm also studying architecture based on APIs and microservices, along with automated testing (unit, integration).
+  <br>
+  👯 I’m looking to collaborate on ...
+  <br>
+  🤔 I’m looking for help with: Understand more about containers like Docker and Kubernetes.
+  <br>
+  ⚡ Fun fact: I really like motorsport and one of my biggest idols is Ayrton Senna. I also like reading management and self-knowledge/self-help books.
+  <br><br>
  
 <h1> 💻 Tech Stack </h1>
 <div style="display: inline_block">
