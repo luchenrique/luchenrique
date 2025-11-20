@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Level 2 support for the MagaluPay Empresas application at MagaluBank, one of the financial service fronts of Magazine Luiza.<br><br>
+🔭 I’m currently working on: Technical support analyst at LuizaLabs.<br><br>
 🌱 I’m currently learning: Backend development using node.js and express. I'm also studying architecture based on APIs and microservices, along with automated testing (unit, integration).<br><br>
 👯 I’m looking to collaborate on: Join the backend development area and constantly improve myself.<br><br>
 🤔 I’m looking for help with: Understand more about containers like Docker and Kubernetes.<br><br>
@@ -14,13 +14,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://camo.githubusercontent.com/2ff25d83c264f3b91f68bdb7261f9544fdf8fa7ee19b7028857ac9e82b42539a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3430344435393f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373">
 </div>
-<br>
-<h1> ⚙ DevOps </h1>
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
 <br>
 <h1> 🌐 Social </h1>
 <a href="https://instagram.com/luchenrique__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
