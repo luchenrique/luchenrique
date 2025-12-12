@@ -6,3 +6,4 @@
 ⚡ Fun fact: I really like motorsport and one of my biggest idols are Ayrton Senna and Lewis Hamilton. I also like reading management and self-knowledge/self-help books.
 <br><br>
 
+ 
